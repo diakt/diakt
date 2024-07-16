@@ -1,6 +1,8 @@
 ## Hello.
 
-I'm Gavin, a backend SWE in defense. 
+I'm Gavin, a backend SWE in defense. Previously math at Columbia.
+
+
 This is a working account for me but I try to keep it somewhat manicured.
 
 ## Connect with Me
