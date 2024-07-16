@@ -7,7 +7,7 @@ I'm Gavin, a backend SWE in defense. This is a working account for me but I try 
   - **Portfolio** - gavinsouther.land (temp down)
   - **LinkedIn** - https://www.linkedin.com/in/gavinsoutherland
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=diakt)](https://github.com/diakt/github-readme-stats) 
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=diakt)](https://github.com/diakt/github-readme-stats) 
 
 
 <!--
