@@ -1,9 +1,6 @@
 ## Hello.
 
-I'm Gavin, a backend SWE in defense. Previously math at Columbia.
-
-
-This is a working account for me but I try to keep it somewhat manicured.
+I'm Gavin, a backend SWE in defense. Previously math at Columbia. Current interests include numerical computation, simulation, and trying not to go to grad school.
 
 ## Connect with Me
   - **Email** - gavinsoutherland@gmail.com
