@@ -8,8 +8,6 @@ This is a working account for me but I try to keep it somewhat manicured.
   - **Portfolio** - https://gavinsouther.land (temp down)
   - **LinkedIn** - https://www.linkedin.com/in/gavinsoutherland
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=diakt)](https://github.com/diakt/github-readme-stats) 
-
 
 <!--
 **diakt/diakt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
