@@ -4,7 +4,7 @@ I'm Gavin, a backend SWE in defense. Previously math at Columbia. Current intere
 
 ## Connect with Me
   - **Email** - gavinsoutherland@gmail.com
-  - **Portfolio** - https://gavinsouther.land (rebuilding)
+  - **Portfolio** - https://gavinsouther.land
   - **LinkedIn** - https://www.linkedin.com/in/gavinsoutherland
 
 
