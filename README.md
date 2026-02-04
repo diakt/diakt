@@ -1,6 +1,6 @@
 ## Hello.
 
-I'm Gavin. Previously math at Columbia, SWE at Machina Cognita, FDE at Palantir. Current interests include numerical computation, simulation, and trying not to go to grad school.
+Previously math at Columbia, SWE at Machina Cognita, FDE at Palantir. Current interests include numerical computation, simulation, and trying not to go to grad school.
 
 
 <!--
